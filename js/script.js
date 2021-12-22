@@ -1,0 +1,3 @@
+btnVer.addEventListener('click', function(){
+    
+})
